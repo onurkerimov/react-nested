@@ -1,0 +1,28 @@
+{
+  "name": "react-nested",
+  "version": "0.0.1",
+  "description": "An experimental plugin that hides nested wrapper components in React DevTools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onurkerimov/react-nested.git"
+  },
+  "keywords": [
+    "react",
+    "wrapper",
+    "nested",
+    "parents"
+  ],
+  "author": "Onur Kerimov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onurkerimov/react-nested/issues"
+  },
+  "homepage": "https://github.com/onurkerimov/react-nested#readme",
+  "peerDependencies": {
+    "react": "16.x"
+  }
+}
